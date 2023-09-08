@@ -63,4 +63,4 @@ The following files are present inside datasets folder:
 <a href="https://www.linkedin.com/in/g-ravikiran-650926274//">  My LinkedIn  </a>
 
 ## Assignment Python code and Subjective Questions and Answers Presentation in PDF
-<center>  <a href= "https://github.com/Ravikiran-Gururaja/Bike_Sharing_Assignment/blob/main/Ravikiran's_Bike_Sharing_Assignment.ipynb"> Click to view the Python code </a>   <b> / </b> <a href= "https://github.com/Ravikiran-Gururaja/Bike_Sharing_Assignment/blob/main/Ravikiran's_Linear_Regression_Subjective_Questions_Answers.pdf">  Click to view Subjective Questions Presentation in PDF </a></center>
+<a href= "https://github.com/Ravikiran-Gururaja/Bike_Sharing_Assignment/blob/main/Ravikiran's_Bike_Sharing_Assignment.ipynb"> Click to view the Python code </a>   <b> / </b> <a href= "https://github.com/Ravikiran-Gururaja/Bike_Sharing_Assignment/blob/main/Ravikiran's_Linear_Regression_Subjective_Questions_Answers.pdf">  Click to view Subjective Questions Presentation in PDF </a>
