@@ -57,7 +57,7 @@ The following files are present inside datasets folder:
 - statsmodels - version 0.12.2.
 
 ## Contact (GitHub)
-Created by: <a href="https://github.com/Ravikiran-Gururaja"> Ravikiran Gururaja's GitHub  </a>
+<a href="https://github.com/Ravikiran-Gururaja"> Ravikiran Gururaja's GitHub link </a>
 
 ## Connect with me on LinkedIn:-
 <a href="https://www.linkedin.com/in/g-ravikiran-650926274//">  My LinkedIn  </a>
