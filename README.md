@@ -61,3 +61,5 @@ Created by: Ravikiran Gururaja
 
 ## Connect with me on LinkedIn:-
 <a href="https://www.linkedin.com/in/g-ravikiran-650926274//">  My LinkedIn  </a>
+
+<center>  <a href= "https://github.com/Ravikiran-Gururaja/Bike_Sharing_Assignment/blob/main/Ravikiran's_Bike_Sharing_Assignment.ipynb"> Click to view the Python code </a>   <b> / </b> <a href= "https://github.com/Ravikiran-Gururaja/Bike_Sharing_Assignment/blob/main/Ravikiran's_Linear_Regression_Subjective_Questions_Answers.pdf"> To download presentation in PDF </a></center>
